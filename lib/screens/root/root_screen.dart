@@ -1,7 +1,7 @@
 import 'package:asly/controllers/home_ctr.dart';
-import 'package:asly/screens/home/view/home_screens.dart';
-import 'package:asly/screens/profile/view/profile_screens.dart';
-import 'package:asly/screens/root/controllers/root_ctr.dart';
+import 'package:asly/screens/home/home_screens.dart';
+import 'package:asly/screens/profile/profile_screens.dart';
+import 'package:asly/controllers/root_ctr.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
