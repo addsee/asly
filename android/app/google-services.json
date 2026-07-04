@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183600911144",
+    "project_id": "asly-2026",
+    "storage_bucket": "asly-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183600911144:android:dc3b4d3cd311001a9ef61d",
+        "android_client_info": {
+          "package_name": "com.example.asly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183600911144-0io0di1hdupi90qiabc1uvgp9lnhh346.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBYKeRipegnxUoA3cdUhBSeHXQstLw4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183600911144-0io0di1hdupi90qiabc1uvgp9lnhh346.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
